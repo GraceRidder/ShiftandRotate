@@ -1,0 +1,11 @@
+Package: ShiftRotate
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: ANONYMOUS
+Maintainer: The package maintainer <ANONYMOUS>
+Description: Shift and rotate functions for generating spatially realistic environmental null models
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
