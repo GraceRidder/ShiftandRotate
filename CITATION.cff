@@ -1,9 +1,15 @@
 cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "Grace"
-  given-names: "Ridder"
+- family-names: "Olivier"
+  given-names: "Hardy"
+  orcid: "https://orcid.org/0000-0003-2052-1527"
+- family-names: "Ridder"
+  given-names: "Grace"
   orcid: "https://orcid.org/0009-0005-4399-8274"
+- family-names: "Ovaskainen"
+  given-names: "Otso"
+  orcid: "https://orcid.org/0000-0001-9750-4421"
 title: "Shift and Rotate"
 version: 1.0.0
 doi: 10.5281/zenodo.13923065
