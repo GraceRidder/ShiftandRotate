@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Grace 
+  given-names: Ridder
+orcid: https://orcid.org/0009-0005-4399-8274
+title:GraceRidder/ShiftandRotate: ShiftRotate
+version: SHIFTandROTATE
+date-released: 2024-10-12
